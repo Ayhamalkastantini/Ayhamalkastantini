@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Ayham Alkastantini 👋</h1>
 
 I'm a Software Developer at [iO](https://iodigital.com) in Eindhoven, The Netherlands.  
-Software Development · Open Source · Docker · Games · Football . RealMadrid
+Software Development · Open Source · Games · Football . Real Madrid
 
 <p align="center">
   <img src="https://api.iconify.design/fontisto/php.svg?color=%23787CB5&height=32" alt="PHP"/>&nbsp;
@@ -13,6 +13,10 @@ Software Development · Open Source · Docker · Games · Football . RealMadrid
   <img src="https://api.iconify.design/bx:bxl-git.svg?color=%23f1502f&width=32" alt="Git"/>&nbsp;
   <img src="https://api.iconify.design/logos/mysql-icon.svg?width=32" alt="MySQL"/>&nbsp;
   <img src="https://api.iconify.design/logos/flutter.svg?width=32" alt="flutter"/>&nbsp;
+  <img src="https://api.iconify.design/logos/dart.svg?width=32" alt="dart"/>&nbsp;
+  <img src="https://api.iconify.design/logos/gatsby.svg?width=32" alt="gatsby"/>&nbsp;
+  <img src="https://api.iconify.design/fa-brands/shopware.svg?color=%23179efe&width=32" alt="Shopware 6"/>&nbsp;
+  <img src="https://api.iconify.design/logos/vue.svg?color=%23179efe&width=32" alt="vue"/>&nbsp;
 </p>
 <br>
 <br>
