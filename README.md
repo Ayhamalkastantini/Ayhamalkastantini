@@ -12,9 +12,10 @@ Software Development · Open Source · Docker · Games · Football . RealMadrid
   <img src="https://api.iconify.design/logos/docker-icon.svg?width=32" alt="Docker"/>&nbsp;
   <img src="https://api.iconify.design/bx:bxl-git.svg?color=%23f1502f&width=32" alt="Git"/>&nbsp;
   <img src="https://api.iconify.design/logos/mysql-icon.svg?width=32" alt="MySQL"/>&nbsp;
-  <img src="https://icon-sets.iconify.design/logos/flutter-icon.svg?width=32" alt="flutter"/>&nbsp;
+  <img src="https://api.iconify.design/logos/flutter.svg?width=32" alt="flutter"/>&nbsp;
 </p>
-
+<br>
+<br>
 <p align="center">
   <a href="https://nl.linkedin.com/in/ayham-alkastantini-1386a0139" title="linkedin" target="_blank"><img src="https://api.iconify.design/logos/linkedin-icon.svg?width=32" alt="linkedin" width="32" height="32"/></a>&nbsp;
 </p>
