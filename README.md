@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Ayham Alkastantini 👋</h1>
 
-I'm a Software Developer at [iO](https://iodigital.com) in Eindhoven, The Netherlands.  
+I'm a Software Developer at [CEVA Logistics]((https://www.cevalogistics.com/en)) in Waalwijk, The Netherlands.  
 Software Development · Open Source · Games · Football . Real Madrid
 
 <p align="center">
